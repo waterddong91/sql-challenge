@@ -1,4 +1,4 @@
-# sql-Employee Database: A Mystery in Two Parts
+# SQL-Employee Database: A Mystery in Two Parts
 
 ![sql](https://user-images.githubusercontent.com/68926116/106810435-ed483200-663a-11eb-80d8-b8c551e33cd8.png)
 
